@@ -5,7 +5,7 @@
 </a>
 <h1 align="center">3 Tri - Challenge-find-the-bugs-ASP.NET</h1> 
 <p align="center">Projeto desenvolvido para a disciplica de Programação Orientada a Objeto (POO), lecionada pelo <a href="https://github.com/otavianocotemig">Professor Otaviano Silvério</a> em ASP.NET. 
-    <strong><a href="https://github.com/matheusem">Matheus Eugênio Moreira (38)</a> e <a href="https://github.com/fernandaassis17"> Fernanda Marques Assis ().</a></strong> Esse projeto tem o intuíto de localizar e resolver "erros/bugs" ao longo do projeto.</p>
+    <strong><a href="https://github.com/matheusem">Matheus Eugênio</a> e <a href="https://github.com/fernandaassis17"> Fernanda Marques Assis.</a></strong> Esse projeto tem o intuíto de localizar e resolver "erros/bugs" ao longo do projeto.</p>
 
 <h3>Linguagem, Banco de Dados e Server utilizados neste projeto<h3/>
 
