@@ -1,9 +1,9 @@
-# Challenge-find-the-bugs-ASP.NET
+
 
 <a href="https://cotemig.com.br/">
   <img align="right" alt="logo cotemig" width= "300px" src="https://www.assespro-mg.org.br/wp-content/uploads/2018/05/Cotemig-Associados.png" />
 </a>
-<h1 align="center">2Tri - Trabalho Prático - Modelo MVC - POO</h1> 
+<h1 align="center">3 Tri - Challenge-find-the-bugs-ASP.NET</h1> 
 <p align="center">Projeto desenvolvido para a disciplica de Programação Orientada a Objeto (POO), lecionada pelo <a href="https://github.com/otavianocotemig">Professor Otaviano Silvério</a> em ASP.NET. 
     <strong><a href="https://github.com/matheusem">Matheus Eugênio Moreira (38)</a> e <a href="https://github.com/fernandaassis17"> Fernanda Marques Assis ().</a></strong> Esse projeto tem o intuíto de localizar e resolver "erros/bugs" ao longo do projeto.</p>
 
