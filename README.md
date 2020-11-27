@@ -10,7 +10,7 @@
 <h3>Linguagem, Banco de Dados e Server utilizados neste projeto<h3/>
 
 <a href="https://dotnet.microsoft.com/learn/aspnet/what-is-aspnet">
-  <img align="left" alt="C#" width="30px" src="https://static.gunnarpeipman.com/wp-content/uploads/2020/09/aspnet-featured.png" />
+  <img align="left" alt="ASP.NET" width="100px" src="https://static.gunnarpeipman.com/wp-content/uploads/2020/09/aspnet-featured.png" />
 </a>
 
 <a href="https://www.wampserver.com/en/">
